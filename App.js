@@ -861,3 +861,4 @@ Ext.define('PortfolioItemTreeModel', {
                  closable: true
              });
     }
+});
